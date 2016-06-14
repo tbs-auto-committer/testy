@@ -1,5 +1,15 @@
-ewogICJuYW1lIjogImVtYWlsUHJvY2Vzc29yIiwKICAiZGVzY3JpcHRpb24iOiAiU2ltcGxlIGVt
-YWlsIHByb2Nlc3NvciIsCiAgImF1dGhvciI6ICJUTlQiLAogICJ2ZXJzaW9uIjogIjAuMC4xIiwK
-ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogIiIsCiAgICAidXJsIjogIiIKICB9LAogICJk
-ZXBlbmRlbmNpZXMiOiB7fSwKICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgImFzeW5jIjogIl4y
-LjAuMC1yYy42IiwKICAgICJnaXRodWIiOiAiXjEuMS4yIgogIH0KfQo=
+{
+  "name": "emailProcessor",
+  "description": "Simple email processor",
+  "author": "TNT",
+  "version": "0.0.1",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "async": "^2.0.0-rc.6",
+    "github": "^1.1.2"
+  }
+}
