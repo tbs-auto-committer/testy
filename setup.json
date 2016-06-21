@@ -1,0 +1,9 @@
+{
+  "ses": {
+    "domain": "attachmentsaver.com",
+    "sender": "do-not-reply@attachmentsaver.com"
+  },
+  "s3": {
+    "emailBucket": "email.attachmentsaver.com"
+  }
+}
